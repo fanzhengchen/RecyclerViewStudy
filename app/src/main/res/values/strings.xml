@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerViewStudy</string>
+
+    <array name="main_items">
+        <item>List - Drag and Swipe</item>
+        <item>Grid - Drag move</item>
+    </array>
+    <array name="dummy_items">
+        <item>Mark</item>
+        <item>Marry</item>
+        <item>Tom</item>
+        <item>Bryant</item>
+        <item>Matt</item>
+        <item>Mike</item>
+        <item>Curry</item>
+        <item>Durant</item>
+        <item>James</item>
+        <item>Clay</item>
+        <item>Jordan</item>
+    </array>
+</resources>
