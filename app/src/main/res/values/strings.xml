@@ -4,6 +4,7 @@
     <array name="main_items">
         <item>List - Drag and Swipe</item>
         <item>Grid - Drag move</item>
+        <item>List View</item>
     </array>
     <array name="dummy_items">
         <item>Mark</item>
