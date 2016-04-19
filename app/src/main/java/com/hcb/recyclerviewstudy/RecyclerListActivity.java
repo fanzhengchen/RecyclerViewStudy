@@ -2,7 +2,6 @@ package com.hcb.recyclerviewstudy;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
 
 import butterknife.Bind;
@@ -11,7 +10,7 @@ import butterknife.ButterKnife;
 /**
  * Created by fanzhengchen on 4/12/16.
  */
-public class RecyclerListActivity extends AppCompatActivity {
+public class RecyclerListActivity extends BaseActivity {
 
     @Bind(R.id.recyclerViewList)
     RecyclerView recyclerView;
