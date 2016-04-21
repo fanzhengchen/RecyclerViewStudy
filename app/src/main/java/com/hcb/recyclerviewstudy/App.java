@@ -16,6 +16,6 @@ public class App extends Application {
         super.onCreate();
         Context context = getApplicationContext();
         DimensionUtil.init(context);
-        Logger.init(getPackageName());
+        Logger.init();
     }
 }
